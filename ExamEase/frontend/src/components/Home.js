@@ -237,16 +237,16 @@ const Home = () => {
         
           Follow us on: 
           
-          <a href="https://www.linkedin.com/in/gargi-jaiswal-455617246" target="_blank"style={{marginRight: "10px",color:"black",marginLeft:"10px"}}>
+          <a href="https://www.linkedin.com/in/satyam-singh-9195991ba" target="_blank"style={{marginRight: "10px",color:"black",marginLeft:"10px"}}>
             <i class="fab fa-linkedin" style={{fontSize: "25px", color:"#125D98"}}></i>
           </a>
-          <a href="https://github.com/Gargi-jais11" target="_blank" style={{marginRight: "10px"}}>
+          <a href="https://github.com/1582002satyamsingh" target="_blank" style={{marginRight: "10px"}}>
             <i class="fab fa-github" style={{fontSize: "25px"}}></i>
           </a>
-          <a href="https://instagram.com/gargi_jaisss?igshid=MzNlNGNkZWQ4Mg==" target="_blank" style={{marginRight: "10px"}}>
+          <a href="https://instagram.com/" target="_blank" style={{marginRight: "10px"}}>
             <i class="fab fa-instagram" style={{fontSize: "25px",color:"magenta"}}></i>
           </a>
-          <a href="https://www.facebook.com/profile.php?id=100030824889804&mibextid=ZbWKwL" target="_blank" style={{marginRight: "10px"}}>
+          <a href="https://www.facebook.com/" target="_blank" style={{marginRight: "10px"}}>
             <i class="fab fa-facebook" style={{fontSize: "25px",color:"blue"}}></i>
           </a>
           
